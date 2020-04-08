@@ -11,3 +11,9 @@ Homework 02 — Working with CSS and Bootstrap
 * Added a meta description for SEO benifits and for Google to grab and display on the SERP page.
 
 * Where possible I tried to stay away from using element selectors and instead using classes. (Except for items like `<h1>` and `<body>` and other such base elements) 
+
+* Brought in custom fonts from Google Fonts
+
+* Pinned the footer to the bottom of the screen
+
+* Added Font Awesome icons for social media 
