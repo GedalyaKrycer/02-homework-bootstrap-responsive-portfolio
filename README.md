@@ -6,6 +6,8 @@ Homework 02 — Working with CSS and Bootstrap
 
 * Made the navigation fixed, so it stays in position when scrolling
 
-* On mobile gave the image a shadow for stylistic purposes. 
+* On mobile gave the image a shadow for stylistic purposes. It also centers on the page and no longer floats the text around it.
 
-* Added a meta description for SEO benifits and for Google to grab and display on the SERP page. 
+* Added a meta description for SEO benifits and for Google to grab and display on the SERP page.
+
+* Where possible I tried to stay away from using element selectors and instead using classes. (Except for items like `<h1>` and `<body>` and other such base elements) 
