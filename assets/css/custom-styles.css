@@ -44,6 +44,21 @@ a:hover {
     color: #0a577e;
 }
 
+.btn {
+    border-radius: 0;
+    padding: .375rem 3rem;
+}
+
+.btn-primary {
+    background: #0198e4;
+    border-color: #0198e4;
+}
+
+.btn-primary:hover {
+    background: #0a577e;
+    border-color: #0a577e;
+}
+
 
 /*———————————————————————————————————————
  Navbar 
