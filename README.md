@@ -22,3 +22,7 @@ In this project I created a 3 page responsive portfolio website. It is built on 
 * On the portfolio page's thumbnail I added an overlay hoverstate that contains additional text and link's to my external portfolio. (These hide on mobile)
 ![Portfolio Demo](./assets/images/gifs/portfolio-demo.gif)
 
+* Validated HTML [index.html](https://take.ms/NcoHI), [portfolio.html](https://take.ms/aNqTL), [contact.html](https://take.ms/Vn3Ke)
+
+* Validated CSS [custom-styles.css](https://take.ms/6hQle)
+
